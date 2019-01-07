@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+MERGED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/94ab2bcadba21ef4f2e085438318d16b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/300421986b7c950691338b35ebc67d4a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/31d34b6d41fe9bb6284c5dc632a6d0f6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/be25a23d50306ba2d8a4270ce99b3ca5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/7ac8dab1ad923a7f49a7b2b55f82f99c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/7ee635f93b0f2a26833cc136622ee506/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8218915a6744ab5aac488f9963519a93/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c1c5c732d6e0ccfe88988b9789682f51/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/7f2313783ccb4b26332362f8e2e27042/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6f8123e68e2467b1eef0ce6d6679e9ed/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c7f66805ae8f401f7be913ab0324c20b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fcb1ad492bfbf1d3151145d0eb6f93ae/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/683f4b06cf3678a0bdf3202c82dcb5ba/AndroidManifest.xml:17:1-27:12
+MERGED from [:macelibrary] /Users/mac/Documents/hyunsung-github/mace/macelibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:19:11-32
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:1-46:12
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:23:5-59
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:24:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:27:22-77
+application
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:29:5-44:19
+MERGED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/94ab2bcadba21ef4f2e085438318d16b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/94ab2bcadba21ef4f2e085438318d16b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/300421986b7c950691338b35ebc67d4a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/300421986b7c950691338b35ebc67d4a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/31d34b6d41fe9bb6284c5dc632a6d0f6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/31d34b6d41fe9bb6284c5dc632a6d0f6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/be25a23d50306ba2d8a4270ce99b3ca5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/be25a23d50306ba2d8a4270ce99b3ca5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/7ac8dab1ad923a7f49a7b2b55f82f99c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/7ac8dab1ad923a7f49a7b2b55f82f99c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8218915a6744ab5aac488f9963519a93/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8218915a6744ab5aac488f9963519a93/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c1c5c732d6e0ccfe88988b9789682f51/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c1c5c732d6e0ccfe88988b9789682f51/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/7f2313783ccb4b26332362f8e2e27042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/7f2313783ccb4b26332362f8e2e27042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6f8123e68e2467b1eef0ce6d6679e9ed/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6f8123e68e2467b1eef0ce6d6679e9ed/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c7f66805ae8f401f7be913ab0324c20b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c7f66805ae8f401f7be913ab0324c20b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fcb1ad492bfbf1d3151145d0eb6f93ae/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fcb1ad492bfbf1d3151145d0eb6f93ae/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/683f4b06cf3678a0bdf3202c82dcb5ba/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/683f4b06cf3678a0bdf3202c82dcb5ba/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:33:9-45
+activity#com.example.CameraActivity
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:36:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/94ab2bcadba21ef4f2e085438318d16b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/94ab2bcadba21ef4f2e085438318d16b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/300421986b7c950691338b35ebc67d4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/300421986b7c950691338b35ebc67d4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/31d34b6d41fe9bb6284c5dc632a6d0f6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/31d34b6d41fe9bb6284c5dc632a6d0f6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/be25a23d50306ba2d8a4270ce99b3ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/be25a23d50306ba2d8a4270ce99b3ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/7ac8dab1ad923a7f49a7b2b55f82f99c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/7ac8dab1ad923a7f49a7b2b55f82f99c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/7ee635f93b0f2a26833cc136622ee506/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/7ee635f93b0f2a26833cc136622ee506/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8218915a6744ab5aac488f9963519a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8218915a6744ab5aac488f9963519a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c1c5c732d6e0ccfe88988b9789682f51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c1c5c732d6e0ccfe88988b9789682f51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/7f2313783ccb4b26332362f8e2e27042/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/7f2313783ccb4b26332362f8e2e27042/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6f8123e68e2467b1eef0ce6d6679e9ed/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6f8123e68e2467b1eef0ce6d6679e9ed/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c7f66805ae8f401f7be913ab0324c20b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c7f66805ae8f401f7be913ab0324c20b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fcb1ad492bfbf1d3151145d0eb6f93ae/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fcb1ad492bfbf1d3151145d0eb6f93ae/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/683f4b06cf3678a0bdf3202c82dcb5ba/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/683f4b06cf3678a0bdf3202c82dcb5ba/AndroidManifest.xml:21:5-23:58
+MERGED from [:macelibrary] /Users/mac/Documents/hyunsung-github/mace/macelibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:macelibrary] /Users/mac/Documents/hyunsung-github/mace/macelibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/c9a8f3e3e665729ffd89fd957fa15d90/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/hyunsung-github/mace/app/src/main/AndroidManifest.xml
