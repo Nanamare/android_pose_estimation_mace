@@ -59,7 +59,7 @@ without using the max x, y coordinate.
 (If you reverse it to the display size of the phone, the difference becomes more bigger.)
 
 This repository is implemented [PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) (Thanks for authors).
-** Model files were excluded(related to company).
+**Model files were excluded(related to company).**
 If you want to write a model file, please use the [PoseEstimationForMobile Model](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/android_demo/demo_mace/macelibrary/src/main/cpp/model/armeabi-v7a).
 or frozen_model.pb --> [Optimizing model](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/tools/optimize_for_inference.py) --> Optimized_model.pb  --> [Converting Deployment model](https://mace.readthedocs.io/en/latest/user_guide/advanced_usage.html#deployment-file)
 --> Finally Make model.a file.**
