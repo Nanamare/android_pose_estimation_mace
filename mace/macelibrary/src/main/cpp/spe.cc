@@ -48,8 +48,8 @@ namespace {
         std::string model_name;
         mace::DeviceType device_type = mace::DeviceType::CPU;
         std::map<std::string, ModelInfo> model_infos = {
-                {"cpm_v1", {"inference_images/Placeholder", "Generator_1/stage1/confidence_map/Conv/Conv2D",
-                                   {1, 256, 144, 3}, {1, 64, 36, 14}}},
+                {"cpm_v1", {"Model input name", "Model output name",
+                                   {1, 192, 192, 3}, {1, 96, 96, 14}}},
         };
     };
     */
@@ -64,8 +64,8 @@ namespace {
         std::string model_name;
         mace::DeviceType device_type = mace::DeviceType::CPU;
         std::map<std::string, ModelInfo> model_infos = {
-                {"cpm_v1", {"inference_images/Placeholder", "Generator_1/stage1/confidence_map/Conv/Conv2D",
-                                   {1, 256, 144, 3}, {1, 64, 36, 14}}},
+                {"cpm_v1", {"Model input name", "Model output name",
+                                   {1, 192, 192, 3}, {1, 96, 96, 14}}},
         };
     };
 
